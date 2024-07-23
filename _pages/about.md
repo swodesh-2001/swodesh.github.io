@@ -1,8 +1,8 @@
 ---
 layout: about
-title: about
+title: About
 permalink: /
-subtitle: <a href='#'>Affiliations</a>. Address. Contacts. Moto. Etc.
+subtitle: Machine Learning | Energy System
 
 profile:
   align: right
@@ -17,10 +17,18 @@ news: false # includes a list of news items
 selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
 ---
-Hello
+Hello,
 
-Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](http://reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
+My name is Swodesh Sharma, a passionate and driven Electrical Engineering graduate from Pulchowk Engineering College, Tribhuvan University, in Lalitpur, Nepal. I am dedicated to advancing the fields of power systems and renewable energy, with a strong focus on optimizing energy integration and management. My thesis on developing a new control strategy for transformerless grid-connected PV inverters highlights my commitment to innovative solutions in renewable energy.
 
-Put your address / P.O. box / other info right below your picture. You can also disable any of these elements by editing `profile` property of the YAML header of your `_pages/about.md`. Edit `_bibliography/papers.bib` and Jekyll will render your [publications page](/al-folio/publications/) automatically.
+Throughout my academic journey, I have engaged in numerous research projects, including vision-based transformer models for solar energy assessment and IoT-based load management devices. My professional experiences at Ekbana Solutions and Fusemachine have honed my skills in machine learning, deep learning, and AI applications, enabling me to tackle complex challenges in energy systems and beyond.
 
-Link to your social media connections, too. This theme is set up to use [Font Awesome icons](https://fontawesome.com/) and [Academicons](https://jpswalsh.github.io/academicons/), like the ones below. Add your Facebook, Twitter, LinkedIn, Google Scholar, or just disable all of them.
+In addition to my technical expertise, I have been actively involved in leadership roles, such as serving as the President of the Electrical Club at Pulchowk Campus. I have organized workshops, mentored students, and contributed to national technical exhibitions, fostering a collaborative and innovative environment.
+
+I invite you to explore my GitHub [here](https://github.com/swodesh-2001) to see my projects and contributions to the open-source community. Connect with me on [LinkedIn](https://www.linkedin.com/in/swodesh-sharma) to discuss potential collaborations and opportunities.
+
+Kathmandu, Nepal
+
+Feel free to reach out to me via email at xarmaswodesh@gmail.com. You can also check out my [publications page](/al-folio/publications/) to explore my research contributions in more detail.
+
+Let's connect and make a positive impact in the world of renewable energy and advanced power systems!

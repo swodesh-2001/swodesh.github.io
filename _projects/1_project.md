@@ -4,7 +4,7 @@ title: project 1
 description: with background image
 img: assets/img/dribble.gif
 importance: 1
-category: work
+category: electrical
 related_publications: true
 ---
 
