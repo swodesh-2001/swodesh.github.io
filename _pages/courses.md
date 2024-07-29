@@ -5,7 +5,7 @@ permalink: /courses/
 description: Additional courses that provided me with a strong foundational base and enriched my knowledge significantly
 nav: true
 nav_order: 8
-display_categories: [Deeplearning Specialization, Tensorflow Specialization, Fusemachine, Power Electronics, Renewable Energy, Data Structure and Algorithms, Introduction to Computer Science, Optimization and Research, Other Courses]
+display_categories: [Deeplearning Specialization, Tensorflow Specialization, Fusemachine, Power Electronics, Renewable Energy Specialization, Data Structure and Algorithms, Introduction to Computer Science, Optimization and Research, Other Courses]
 horizontal: false
 ---
 

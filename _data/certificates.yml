@@ -1,7 +1,13 @@
+- title: "Convolutional Neural Network "
+  category: "Deeplearning Specialization"
+  link: "https://coursera.org/verify/7QE4QXM5SVTJ"
+  image: "/assets/img/certificates/Deep_Learning_Specialization/Course4.png"
+
 - title: "Structuring Machine Learning Projects"
   category: "Deeplearning Specialization"
   link: "https://www.coursera.org/account/accomplishments/certificate/KSMSKGUXW73S"
   image: "/assets/img/certificates/Deep_Learning_Specialization/Course3.png"
+
 - title: "Improving Deep Neural Networks: Hyperparameter Tuning, Regularization and Optimization"
   category: "Deeplearning Specialization"
   link: "https://www.coursera.org/account/accomplishments/certificate/7HEX6QTUS693"
@@ -14,6 +20,9 @@
   importance: 1
 
  
+
+
+
 
 - title: "DeepLearning.AI TensorFlow Developer Specialization"
   category: "Tensorflow Specialization"
@@ -96,3 +105,12 @@
   link: "https://drive.google.com/file/d/1cPIpMI8E_4mFcBGSu-kKorp_ms4pvJz9/view?usp=sharing"
   image: "/assets/img/certificates/Fusemachine/CV.png"
   importance: 5
+
+- title: "Renewable Energy Technology Fundamentals"
+  category: "Renewable Energy Specialization"
+  link: "https://coursera.org/verify/RCT8MDFQJRFD"
+  image: "/assets/img/certificates/Renewable_Specialization/Course1.png"
+  importance: 1
+
+
+
