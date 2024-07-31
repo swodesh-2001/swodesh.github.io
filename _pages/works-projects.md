@@ -31,6 +31,7 @@ horizontal: false
           </a>
           <div class="card-body">
             <h5 class="card-title">{{ work.title }}</h5>
+            <p class="card-text">{{ work.description }}</p> <!-- Added description here -->
           </div>
         </div>
       </div>
@@ -47,6 +48,7 @@ horizontal: false
           </a>
           <div class="card-body">
             <h5 class="card-title">{{ work.title }}</h5>
+            <p class="card-text">{{ work.description }}</p> <!-- Added description here -->
           </div>
         </div>
       </div>
@@ -75,6 +77,7 @@ horizontal: false
           </a>
           <div class="card-body">
             <h5 class="card-title">{{ work.title }}</h5>
+            <p class="card-text">{{ work.description }}</p> <!-- Added description here -->
           </div>
         </div>
       </div>
@@ -91,6 +94,7 @@ horizontal: false
           </a>
           <div class="card-body">
             <h5 class="card-title">{{ work.title }}</h5>
+            <p class="card-text">{{ work.description }}</p> <!-- Added description here -->
           </div>
         </div>
       </div>

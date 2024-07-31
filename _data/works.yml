@@ -3,159 +3,186 @@
   link: "https://github.com/swodesh-2001/Leakage-Current-Mitigation-Using-H5-Topology"
   image: "/assets/img/works/projects/PowerElectronics_Project.png"
   importance: 1
+  description: "Developed a leakage current mitigation strategy using H5 topology for Solar Energy Integration in Grid."
 
-- title: "PLMD - IOT"
+- title: "PLMD - IOT  (Undergrad 7th Semester Project)"
   category: "Projects"
   link: "https://github.com/swodesh-2001/PLMD-IOT"
   image: "/assets/img/works/projects/PLMD.png"
   importance: 2
+  description: "Developed an Esp32 based house energy monitoring device for demand side response"
 
-- title: "UNET"
+- title: "UNET "
   category: "Papers Replicate"
   link: "https://github.com/swodesh-2001/Unet-Scratch"
   image: "/assets/img/works/papers_replicate/UNET.png"
   importance: 1
+  description: "Implemented the UNET model from scratch for image segmentation tasks in PyTorch"
 
-- title: "VIT"
+- title: "VIT ( Visual Transformers)"
   category: "Papers Replicate"
   link: "https://github.com/swodesh-2001/ViT-Scratch"
   image: "/assets/img/works/papers_replicate/VIT.png"
   importance: 2
+  description: "Reproduced the Vision Transformer (ViT) model for Fashion Mnist Classification in PyTorch"
 
 - title: "Neural Style Transfer"
   category: "Papers Replicate"
   link: "https://github.com/swodesh-2001/Neural-Style-Transfer"
   image: "/assets/img/works/papers_replicate/Neural_Style_Transfer.jpg"
   importance: 3
+  description: "Replicated the neural style transfer technique to apply artistic styles to images."
 
 - title: "Yolo Scratch"
   category: "Papers Replicate"
   link: "https://github.com/swodesh-2001/YOLO-Scratch"
   image: "/assets/img/works/papers_replicate/Yolo_Scratch.png"
   importance: 4
+  description: "Implemented the YOLO object detection model from scratch for real-time object detection."
 
-- title: "Kmeans 2D"
+- title: "Kmeans 2D "
   category: "Ekbana Internship Works"
   link: "https://github.com/swodesh-2001/Kmeans-2D"
   image: "/assets/img/works/ekbana_internship/Kmeans_2D.gif"
   importance: 1
+  description: "Clustered handwritten digits from the MNIST dataset using K-means algorithm during my internship."
 
-- title: "Dimensionality Reduction"
+- title: "Dimensionality Reduction "
   category: "Ekbana Internship Works"
   link: "https://github.com/swodesh-2001/Dimensionality-Reduction"
   image: "/assets/img/works/ekbana_internship/Dimensionality_Reduction.jpg"
   importance: 2
+  description: "Applied SVD and PCA techniques for image compression "
 
-- title: "Image Stitching"
+- title: "Image Stitching "
   category: "Ekbana Internship Works"
   link: "https://github.com/swodesh-2001/ImageStitching-Scratch"
   image: "/assets/img/works/ekbana_internship/Image_Stitching.jpg"
   importance: 3
+  description: "Developed an image stitching algorithm using SURF and homography matrix projection in C++."
 
 - title: "Understanding Color Space"
   category: "Ekbana Internship Works"
   link: "https://github.com/swodesh-2001/ComputerVision-C/tree/main/Color_Space"
   image: "/assets/img/works/ekbana_internship/Understanding_Color_Space.jpg"
   importance: 4
+  description: "Color space manipulation in C++."
 
 - title: "Image Transformation"
   category: "Ekbana Internship Works"
   link: "https://github.com/swodesh-2001/ComputerVision-C/tree/main/2D_Transformation"
   image: "/assets/img/works/ekbana_internship/Image_Transformation.jpg"
   importance: 5
+  description: "2D image transformation in C++ from scratch"
 
 - title: "Edge Detection"
   category: "Ekbana Internship Works"
   link: "https://github.com/swodesh-2001/ComputerVision-C/tree/main/Image_Edge_Detection"
   image: "/assets/img/works/ekbana_internship/Edge_Detection.jpg"
   importance: 6
+  description: "Edge Detection Algorithm in C++"
 
 - title: "Lane Detection"
   category: "Ekbana Internship Works"
   link: "https://github.com/swodesh-2001/ComputerVision-C/tree/main/Image_Edge_Detection"
   image: "/assets/img/works/ekbana_internship/Lane_Detection.gif"
   importance: 7
+  description: " Lane Detection and Polyfill using Hough Transform"
 
 - title: "3D Transformation"
   category: "Ekbana Internship Works"
   link: "https://github.com/swodesh-2001/ComputerVision-C/tree/main/3D_Transformation"
   image: "/assets/img/works/ekbana_internship/3D_Transformation.jpg"
   importance: 8
+  description: " 3D point cloud transformation in C++"
 
 - title: "Pytorch Fundamentals"
   category: "Ekbana Internship Works"
   link: "https://github.com/swodesh-2001/Understanding-Pytorch"
   image: "/assets/img/works/ekbana_internship/Pytorch_Fundamentals.png"
   importance: 9
+  description: " Contains thorough documentation on PyTorch , Tensorboard, Image Augmentation, Data Loading Pipeline , Loss Functions and Cuda Implementations"
 
 - title: "Python Basic Packages Revisited"
   category: "Ekbana Internship Works"
   link: "https://github.com/swodesh-2001/PyBasics"
   image: "/assets/img/works/ekbana_internship/Python_Basic_Packages_Revisited.jpg"
   importance: 10
+  description: "Python , NumPy, Pandas, Matplotlib, FastApi Revisited"
 
 - title: "PyCollage"
   category: "Ekbana Internship Works"
   link: "https://github.com/swodesh-2001/PyCollage"
   image: "/assets/img/works/ekbana_internship/PyCollage.jpg"
   importance: 11
+  description: "Collage Maker for images"
 
 - title: "AI Disease Prediction"
   category: "FuseMachine Semester Projects"
   link: "https://github.com/swodesh-2001/AI_Disease_Prediction"
   image: "/assets/img/works/fusemachine_semester/AI_Disease_Prediction.jpg"
   importance: 1
+  description: "Ensembled models disease prediction and chatbot."
 
 - title: "Document Summarizer With Chatbot"
   category: "FuseMachine Semester Projects"
   link: "https://github.com/swodesh-2001/Document-Summarizer-with-Chatbot/tree/main"
   image: "/assets/img/works/fusemachine_semester/Document_Summarizer_With_Chatbot.jpg"
   importance: 2
+  description: "Abstractive Summarization of PDF"
 
 - title: "AI Car"
   category: "FuseMachine Semester Projects"
   link: "https://github.com/swodesh-2001/Auto-Steering-of-Vehicle-Using-OpenCV-and-CNN"
-  image: "/assets/img/works/fusemachine_semester/AI_Car.jpg"
+  image: "/assets/img/works/fusemachine_semester/AI_Car.gif"
   importance: 3
+  description: "Hardware and Simulation of CNN based car."
 
 - title: "Neural Network Scratch"
   category: "Core ML Scratch"
   link: "https://github.com/swodesh-2001/DeepNeuralNetwork-Scratch"
   image: "/assets/img/works/core_ml_scratch/Neural_Network_Scratch.jpg"
   importance: 1
+  description: "Deep Neural Network Implementation from Scratch "
 
 - title: "Regression Scratch"
   category: "Core ML Scratch"
   link: "https://github.com/swodesh-2001/Regression-Scratch"
   image: "/assets/img/works/core_ml_scratch/Regression_Scratch.gif"
   importance: 2
+  description: " Polynomial , Logistic and Multinomial Regression from scratch"
 
 - title: "CNN Scratch"
   category: "Core ML Scratch"
   link: "https://github.com/swodesh-2001/CNN-Scratch"
   image: "/assets/img/works/core_ml_scratch/CNN_Scratch.png"
   importance: 3
+  description: "Convolutional Neural Network (CNN) from scratch"
 
 - title: "Helmet Detection"
   category: "Hackathon Projects"
   link: "https://github.com/swodesh-2001/HELMET_DETECTION"
   image: "/assets/img/works/hackathon_projects/Helmet_Detection.jpg"
   importance: 1
+  description: "Helmet detection system to enhance safety using MobilenetV2 Archictecture."
 
 - title: "NAYAN"
   category: "Hackathon Projects"
   link: "https://github.com/swodesh-2001/Nayan"
   image: "/assets/img/works/hackathon_projects/NAYAN.jpg"
   importance: 2
+  description: " Real Time Eye monitoring software for childrens"
 
 - title: "Transmission Line Monitoring"
   category: "Hackathon Projects"
   link: "https://github.com/swodesh-2001/TransmissionLineMonitoring"
   image: "/assets/img/works/hackathon_projects/Transmission_Line_Monitoring.jpg"
   importance: 3
+  description: "Drone based Computer Vision System for monitoring transmission lines for fault detection."
 
 - title: "AR Galactics"
   category: "Hackathon Projects"
   link: "https://github.com/swodesh-2001/AR_galactics"
   image: "/assets/img/works/hackathon_projects/AR_Galactics.jpg"
   importance: 4
+  description: "Augmented Reality (AR) based apps for children. Presented in Nasa Space Apps Challenge"
