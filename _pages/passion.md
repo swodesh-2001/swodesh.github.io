@@ -10,41 +10,52 @@ horizontal: false
 
 ## Sustainable Energy Production and Distribution
 
-As an electrical engineer passionate about sustainable energy, my mission is to contribute to power electronics, renewable integration, and grid stability. The future demands a sustainable approach to energy production and distribution.
+As an electrical engineer passionate about sustainable energy, my mission is to contribute to power electronics, renewable integration, and grid stability. With the increase in renewable penetration in grid, we must design a system capable of making it stable. This comes with creating better converters, better optimization and resilience techniques
 
-I am dedicated to promoting renewable energy sources and integrating them into existing power grids. With the growing energy demands driven by Large Language Models (LLMs), ensuring our energy infrastructure can meet these needs sustainably is crucial. My focus is on developing innovative solutions for efficient renewable energy integration and maintaining grid stability amid the rise of electric vehicles and the decline of fossil fuels.
+<div class="image-container">
+    <img src="/assets/img/Misc/sustainable.png" alt="Sustainable Image" class="responsive-image">
+</div>
 
-## Contributing to Low and Middle-Income Countries
+With the growing energy demands driven by training Large Language Models (LLMs), Electric Vehicles, More Computing need of a normal individual, the grid will reach its limit soon.So, to be prepared for the upcoming challenges, `I aim to collaborate and do research on AI algorithms for power electronics and power system for efficient renewable energy integration and maintaining grid stability`.  
 
-My second mission is to impact low and middle-income countries. The disparity in healthcare resources between developed and developing nations is significant. To address this, my team and I are developing a low-cost laparoscopic simulator box to provide affordable surgical training tools for doctors in these regions.
+## Contributing to Surgical Simulation for Low and Middle-Income Countries
 
-## Photo Gallery
+My second life mission is to impact low and middle-income countries in health sector. `The disparity in healthcare resources between developed and developing nations is significant.` To address this, `my team and I are developing a low-cost laparoscopic simulator box` to provide affordable surgical training tools for doctors in these regions. 
+
+By integrating computer vision (`Classical + Deeplearning`) algorithms and designing low cost simulator device capable of running these model, we believe it will create a massive impact.
+
+Here are some of our initial accomplishments : 
 
 <div class="slideshow-container">
 
   <div class="mySlides">
-    <img src="/assets/img/certificates/Deep_Learning_Specialization/Course3.png" style="width:100%">
-    <div class="text">Description of Image 1</div>
+    <img src="/assets/img/Laapsi/Pic1.jpg" style="width:100%">
+    <div class="text"> Hardware prototype for the Automated Progress Tracking Simulator and our Silicon model</div>
   </div>
 
   <div class="mySlides">
-    <img src="/assets/img/certificates/Deep_Learning_Specialization/Course2.png" style="width:100%">
-    <div class="text">Description of Image 2</div>
+    <img src="/assets/img/Laapsi/Pic2.jpg" style="width:100%">
+    <div class="text">Software Prototype</div>
   </div>
 
   <div class="mySlides">
-    <img src="/assets/img/certificates/Deep_Learning_Specialization/Course3.png" style="width:100%">
-    <div class="text">Description of Image 3</div>
+    <img src="/assets/img/Laapsi/Pic3.jpg" style="width:100%">
+    <div class="text">Me and Automated Progress Tracking Simulator</div>
   </div>
 
   <div class="mySlides">
-    <img src="/assets/img/certificates/Deep_Learning_Specialization/Course2.png" style="width:100%">
-    <div class="text">Description of Image 4</div>
+    <img src="/assets/img/Laapsi/Pic4.jpg" style="width:100%">
+    <div class="text">Showcasing our prototype in Manipal Hospital, Pokhara</div>
   </div>
 
   <div class="mySlides">
-    <img src="/assets/img/certificates/Deep_Learning_Specialization/Course3.png" style="width:100%">
-    <div class="text">Description of Image 5</div>
+    <img src="./assets/img/Laapsi/Pic5.jpg" style="width:100%">
+    <div class="text">Validation from Dr. Surgeon Jeremy</div>
+  </div>
+
+  <div class="mySlides">
+    <img src="./assets/img/Laapsi/Pic6.jpg" style="width:100%">
+    <div class="text">Our Team</div>
   </div>
 
   <a class="prev" onclick="plusSlides(-1)">&#10094;</a>
@@ -62,8 +73,6 @@ My second mission is to impact low and middle-income countries. The disparity in
 
 ---
 
-By pursuing these missions, I aim to create a sustainable and equitable future, ensuring the energy sector and healthcare systems are ready for tomorrow's challenges.
-
 <style>
 .slideshow-container {
   position: relative;
@@ -74,6 +83,14 @@ By pursuing these missions, I aim to create a sustainable and equitable future, 
 .mySlides {
   display: none;
 }
+
+
+.mySlides img {
+  width: 100%;
+  height: 300px; /* Set a fixed height for all images */
+  object-fit: contain; /* Ensures the images scale proportionally and cover the fixed height */
+}
+
 
 .prev, .next {
   cursor: pointer;
@@ -92,13 +109,14 @@ By pursuing these missions, I aim to create a sustainable and equitable future, 
 }
 
 .text {
-  color: #f2f2f2;
+  color: #000; /* Set to black for better visibility */
   font-size: 15px;
   padding: 8px 12px;
   position: absolute;
   bottom: 8px;
   width: 100%;
   text-align: center;
+  background-color: rgba(255, 255, 255, 0.7); /* Semi-transparent white background */
 }
 
 .dot {
@@ -115,6 +133,20 @@ By pursuing these missions, I aim to create a sustainable and equitable future, 
 .dot.active {
   background-color: #717171;
 }
+
+.image-container {
+    width: 50%; 
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.responsive-image {
+    max-width: 100%;
+    height: auto;
+    display: block;
+}
+
 </style>
 
 <script>
