@@ -33,12 +33,12 @@
   importance: 3
   description: "Replicated the neural style transfer technique to apply artistic styles to images."
 
-- title: "Yolo Scratch"
-  category: "Papers Replicate"
-  link: "https://github.com/swodesh-2001/YOLO-Scratch"
-  image: "/assets/img/works/papers_replicate/Yolo_Scratch.png"
-  importance: 4
-  description: "Implemented the YOLO object detection model from scratch for real-time object detection."
+# - title: "Yolo Scratch"
+#   category: "Papers Replicate"
+#   link: "https://github.com/swodesh-2001/YOLO-Scratch"
+#   image: "/assets/img/works/papers_replicate/Yolo_Scratch.png"
+#   importance: 4
+#   description: "Implemented the YOLO object detection model from scratch for real-time object detection."
 
 - title: "Kmeans 2D "
   category: "Ekbana Internship Works"
