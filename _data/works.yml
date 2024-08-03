@@ -19,12 +19,12 @@
   importance: 1
   description: "Implemented the UNET model from scratch for image segmentation tasks in PyTorch"
 
-- title: "VIT ( Visual Transformers)"
-  category: "Papers Replicate"
-  link: "https://github.com/swodesh-2001/ViT-Scratch"
-  image: "/assets/img/works/papers_replicate/VIT.png"
-  importance: 2
-  description: "Reproduced the Vision Transformer (ViT) model for Fashion Mnist Classification in PyTorch"
+# - title: "VIT ( Visual Transformers)"
+#   category: "Papers Replicate"
+#   link: "https://github.com/swodesh-2001/ViT-Scratch"
+#   image: "/assets/img/works/papers_replicate/VIT.png"
+#   importance: 2
+#   description: "Reproduced the Vision Transformer (ViT) model for Fashion Mnist Classification in PyTorch"
 
 - title: "Neural Style Transfer"
   category: "Papers Replicate"
@@ -152,12 +152,12 @@
   importance: 2
   description: " Polynomial , Logistic and Multinomial Regression from scratch"
 
-- title: "CNN Scratch"
-  category: "Core ML Scratch"
-  link: "https://github.com/swodesh-2001/CNN-Scratch"
-  image: "/assets/img/works/core_ml_scratch/CNN_Scratch.png"
-  importance: 3
-  description: "Convolutional Neural Network (CNN) from scratch"
+# - title: "CNN Scratch"
+#   category: "Core ML Scratch"
+#   link: "https://github.com/swodesh-2001/CNN-Scratch"
+#   image: "/assets/img/works/core_ml_scratch/CNN_Scratch.png"
+#   importance: 3
+#   description: "Convolutional Neural Network (CNN) from scratch"
 
 - title: "Helmet Detection"
   category: "Hackathon Projects"
