@@ -16,7 +16,7 @@ As an electrical engineer passionate about sustainable energy, my mission is to 
     <img src="/assets/img/Misc/sustainable.png" alt="Sustainable Image" class="responsive-image">
 </div>
 
-With the growing energy demands driven by training Large Language Models (LLMs), Electric Vehicles, More Computing need of a normal individual, the grid will reach its limit soon.So, to be prepared for the upcoming challenges, `I aim to collaborate and do research on AI algorithms for power electronics and power system for efficient renewable energy integration and maintaining grid stability`.  
+With the growing energy demands driven by training Large Language Models (LLMs), electric vehicles and more computing need of a normal individual, the grid will soon reach its limit .So, to be prepared for the upcoming challenges, `I aim to collaborate and do research on power electronics and AI algorithms for  power system for efficient renewable energy integration and maintaining grid stability`.  
 
 ## Contributing to Surgical Simulation for Low and Middle-Income Countries
 

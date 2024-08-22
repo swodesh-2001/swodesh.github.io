@@ -17,6 +17,15 @@
     },
     "profiles": []
   },
+  "publications": [
+    {
+      "name": "Predictive Load Management Using IoT and Data Analytics",
+      "publisher": "Artificial Intelligence of Things (ICAIoT 2023)",
+      "releaseDate": "2023",
+      "url": "https://doi.org/10.1007/978-3-031-48781-1_13",
+      "summary": "Presented at Artificial Intelligence of Things (ICAIoT 2023), Part of the book series: Communications in Computer and Information Science (CCIS, Springer)."
+    }
+  ],
   "work": [
     {
       "name": "EKbana Solutions Pvt. Ltd.",
@@ -26,8 +35,9 @@
       "endDate": "2024-07-01",
       "summary": "Replicating research papers in PyTorch and working on vision transformer models for solar energy generation estimation.",
       "highlights": [
-        "Vision Transformer Model for solar energy generation estimation in an urban city.",
-        "Use of multiple agents for improving large language model (LLM) capability."
+        "Developed and implemented algorithms such as image stitching, lane detection, image transformation, 3D transformations, and color space manipulation using C++.",
+        " Replicated research papers using PyTorch, including UNET.",
+        "Assisted in research focused on using multiple AI agents to improve large language models (LLMs)."
       ]
     },
     {
@@ -117,7 +127,7 @@
       "date": "2019-2024",
       "awarder": "Institute of Engineering I.O.E., T.U",
       "url": "",
-      "summary": "Provided for undergraduate studies in Electrical Engineering at Pulchowk Campus due to entrance rank of 158 among 15000 students"
+      "summary": "Provided for undergraduate studies in Electrical Engineering at Pulchowk Campus due to entrance rank of 158 among 18000 students"
     },
     {
       "title": "Mahatmata Gandhi Scholarship",
@@ -135,22 +145,6 @@
     }
   ],
   "certificates": [],
-  "publications": [
-    {
-      "name": "Predictive Load Management Using IoT and Data Analytics",
-      "publisher": "Artificial Intelligence of Things (ICAIoT 2023)",
-      "releaseDate": "",
-      "url": "https://doi.org/10.1007/978-3-031-48781-1_13",
-      "summary": "Presented at Artificial Intelligence of Things (ICAIoT 2023), Part of the book series: Communications in Computer and Information Science (CCIS, volume 1930)."
-    },
-    {
-      "name": "Numerical Methods for BE",
-      "publisher": "Photocopy Sewa, Lalitpur, Nepal",
-      "releaseDate": "",
-      "url": "",
-      "summary": ""
-    }
-  ],
   "skills": [
     {
       "name": "Programming Languages",
@@ -242,19 +236,7 @@
   "interests": [],
   "references": [
     {
-      "name": "Dr. Indraman Tamrakar",
-      "icon": "",
-      "reference": "Professor, Department of Electrical Engineering, Pulchowk Campus, IOE; Contact : imtamrakar@ioe.edu.np"
-    },
-    {
-      "name": "Asst. Prof Sanziwan Satyal",
-      "icon": "",
-      "reference": "DHOD, Department of Electronics and Computer Engineering, Pulchowk Campus; Contact : sanziwans@pcampus.edu.np"
-    },
-    {
-      "name": "Dr. Surgeon Bishow Karki Bekhayat",
-      "icon": "",
-      "reference": "Trainee Lead for Robotic Transplant Surgery , RoyalSurgical College, Robotic Surgery Committee ; Contact : bishow.karki47@gmail.com"
+      "name" : "Available upon request"
     }
   ],
   "projects": []
