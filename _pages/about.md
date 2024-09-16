@@ -20,11 +20,8 @@ social: true # includes social icons at the bottom of the page
 Hello,
 
 I am Swodesh Sharma, a passionate and driven Electrical Engineering graduate from Pulchowk Engineering College, Tribhuvan University, in Lalitpur, Nepal. 
-I am interested in Power System and Power Electronics AI algorithms.
+I have a strong interest in Power Systems and Power Electronics, with a focus on integrating AI algorithms to enhance efficiency, stability, and optimization in these fields.
 My undergraduate thesis was on `Developing a new control strategy for transformerless grid-connected PV inverters`.
-
-`I am seeking a Research assistant position on Application of AI on Power System/Power Electronics Converters for grid integration`.
-
 Throughout my academic journey, I have engaged in numerous research projects, ranging from DeepLearning Projects to Power Electronics Converters. 
 
 I have completed 1 year microdegree program from [Fusemachines](https://fusemachines.com/).In addition to my technical expertise, I have been actively involved in leadership roles, such as serving as the `President of the Electrical Club at Pulchowk Campus`. I have organized workshops, mentored students, and contributed to national technical exhibitions `LOCUS`.

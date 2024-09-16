@@ -19,6 +19,13 @@
   },
   "publications": [
     {
+      "name": "A Comprehensive Study on Implementation of Deep Learning on Autonomous Vehicle for Steering Angle Prediction and Stability",
+      "publisher": " KEC Journal of Science and Engineering",
+      "releaseDate": "2024",
+      "url": "https://doi.org/10.3126/kjse.v8i1.69256",
+      "summary": "Presented at KEC Journal of Science and Engineering"
+    },
+    {
       "name": "Predictive Load Management Using IoT and Data Analytics",
       "publisher": "Artificial Intelligence of Things (ICAIoT 2023)",
       "releaseDate": "2023",

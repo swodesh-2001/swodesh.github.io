@@ -1,3 +1,13 @@
+- title: "Deep Learning Specialization"
+  category: "Deeplearning Specialization"
+  link: "https://coursera.org/verify/specialization/BS01IPJJ0JVX"
+  image: "/assets/img/certificates/Deep_Learning_Specialization/DL.png"
+
+- title: "Sequence Models"
+  category: "Deeplearning Specialization"
+  link: "https://coursera.org/verify/1L3EQ3KPSQA6"
+  image: "/assets/img/certificates/Deep_Learning_Specialization/Course5.png"
+
 - title: "Convolutional Neural Network "
   category: "Deeplearning Specialization"
   link: "https://coursera.org/verify/7QE4QXM5SVTJ"
