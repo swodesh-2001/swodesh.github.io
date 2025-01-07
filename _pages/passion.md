@@ -29,6 +29,11 @@ Here are some of our initial accomplishments :
 <div class="slideshow-container">
 
   <div class="mySlides">
+    <img src="/assets/img/Laapsi/Pic_0.gif" style="width:100%">
+    <div class="text"> Realtime Progress Tracking Software Prototype for Laparoscopic Surgery</div>
+  </div>
+
+  <div class="mySlides">
     <img src="/assets/img/Laapsi/Pic1.jpg" style="width:100%">
     <div class="text"> Hardware prototype for the Automated Progress Tracking Simulator and our Silicon model</div>
   </div>

@@ -19,6 +19,12 @@
   },
   "publications": [
     {
+      "name": "An Optimized H5 Hysteresis Current Control with Clamped Diodes in Transformer-Less Grid-PV Inverter ",
+      "publisher": " MDPI Electricity",
+      "releaseDate": "2025",
+      "url": "https://www.mdpi.com/3123698"
+    },
+    {
       "name": "A Comprehensive Study on Implementation of Deep Learning on Autonomous Vehicle for Steering Angle Prediction and Stability",
       "publisher": " KEC Journal of Science and Engineering",
       "releaseDate": "2024",
@@ -34,6 +40,13 @@
     }
   ],
   "work": [
+    {
+      "name": "K&A Engineering Consulting ",
+      "position": "Associate Electrical Engineer",
+      "url": "",
+      "startDate": "2024-11-05",
+      "summary": "Electrical Design and Estimation of Distribution system of California, USA"
+    },
     {
       "name": "EKbana Solutions Pvt. Ltd.",
       "position": "Machine Learning Trainee",

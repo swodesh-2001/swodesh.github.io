@@ -41,9 +41,13 @@ Some Memorable Undergrad Memories
       <img src="/assets/img/highlights/7.png" alt="Final Year Project" onclick="enlargeImage(this)">
       <div class="text">Late-night run of the thesis project before tomorrow's submission </div>
     </div>
+     <div class="slide">
+      <img src="/assets/img/highlights/8.jpeg" alt="Laapsi-AI" onclick="enlargeImage(this)">
+      <div class="text"> Before Flight to Jumla for showcasing Laapsi-AI </div>
+    </div>
+
   </div>
 
-![alt text](image.png)
 
 
   <!-- Navigation buttons -->
